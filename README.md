@@ -26,6 +26,7 @@ An EDA wa performed to get some insight from the data, which includes:
 5.  Which Day of the week has the highest Sales ?
 ## Data Visualisation
 After exploring the data, i then create a pivot table with KPIs, a visual on Excel (and Power Pivot)
+![](Dashboard&Dataset/BusinessoverviewDash.png)
 ## Conclusions
 After analyzing the data from 2018-2019 , I finally came to a conclusion that:
 - Las Vegas has the highest sales with a margin % of 30% compare to other locations from the store and also with the highest Unit of goods sold out from the locations
