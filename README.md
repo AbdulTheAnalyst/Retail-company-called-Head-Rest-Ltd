@@ -16,6 +16,7 @@ A case study of a Bed Company provided by Coperate Finance Institute. This compa
 
 ## Data Modelling & Measures
 The data has a fact table , 4 dimensional table and a Date table. A snowflake data model was used to build a connection arround the data.
+![](Dashboard&Dataset/datamodelexcel.png)
 
 ## Exploratory Data Analysis
 An EDA wa performed to get some insight from the data, which includes:
